@@ -197,10 +197,10 @@
 	<File name="Data/Skills/minion.lua" part="program" sha1="0a546a39211dae1038c7d6e923eb404316c21ad6" />
 	<File name="Data/Skills/other.lua" part="program" sha1="a628f7c7e21e78e594ec801ba2c05ef176cdb391" />
 	<File name="Data/Skills/spectre.lua" part="program" sha1="1fa8b141b8ae0ffa83e5a6e7a74571e84a187dd6" />
-	<File name="Data/Skills/sup_dex.lua" part="program" sha1="0be2e9468b4508e184c21c9e28a743065e059038" />
+	<File name="Data/Skills/sup_dex.lua" part="program" sha1="60998a88d763378decca2acf0dc3032f8e4be85a" />
 	<File name="Data/Skills/sup_int.lua" part="program" sha1="08bea5c8fe1d4b73e9c00958e6e235390dea5923" />
 	<File name="Data/Skills/sup_str.lua" part="program" sha1="e329c5ed2517712c24c2f251d3809dac5e5f53b9" />
-	<File name="Data/SkillStatMap.lua" part="program" sha1="9d2923bcee806adf4899f3c813f004f0fd36343d" />
+	<File name="Data/SkillStatMap.lua" part="program" sha1="3122cf0570e26a0bc9fd3294a197028d296c2d71" />
 	<File name="Data/Spectres.lua" part="program" sha1="d4fea48d019d0d4bd25bb5810bd18ebaaebbb64a" />
 	<File name="Data/StatDescriptions/active_skill_gem_stat_descriptions.lua" part="program" sha1="1758aeda1d25c539b150d5ff6446bd4aadac4d8a" />
 	<File name="Data/StatDescriptions/advanced_mod_stat_descriptions.lua" part="program" sha1="e63ecf3d4d90381e17bfbe481c4fb2ed0fc2c69b" />
@@ -699,7 +699,7 @@
 	<File name="Modules/CalcTools.lua" part="program" sha1="b267879379e9ea29601e805e2d1506264591bb45" />
 	<File name="Modules/CalcTriggers.lua" part="program" sha1="e4f2cf926ef7f192c126da0a340215d7a572cf7d" />
 	<File name="Modules/Common.lua" part="program" sha1="80fdee369827474f6bd6e12d90ea8c6bab56a33e" />
-	<File name="Modules/ConfigOptions.lua" part="program" sha1="4390dfecccc38758502c58d43a0588276a9116ac" />
+	<File name="Modules/ConfigOptions.lua" part="program" sha1="a0bb45f3a7a755b82bb4ee28cc6e9ce2b2447fc5" />
 	<File name="Modules/Data.lua" part="program" sha1="8523e93049897b60fcb5b467c2d35f348f6421d1" />
 	<File name="Modules/DataLegionLookUpTableHelper.lua" part="program" sha1="170699925a438275137ba621206800e29f453eb3" />
 	<File name="Modules/ItemTools.lua" part="program" sha1="44c63fb06069b78012e9ca9be49c3b38a11694a4" />
